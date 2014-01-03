@@ -1,1 +1,18 @@
 /* Global Styling */
+
+*,
+html {
+	padding: 0px;
+	margin: 0px;
+}
+
+h1 {
+	margin-bottom: 50px;
+}
+
+#main-container {
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 40px 10px;
+}
